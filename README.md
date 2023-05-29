@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 23 years old aspirant Software Engineer with a strong motivation to develop software products useful for everyday life but also an interest in Machine Learning applied to real problems. I offer great spirit of adaptation and leadership combined with hard work characteristics and teamwork mindset. In the last year I have been in touch with the latest research topics in the field of software development, time series clustering and neural networkst.
+I am a 23 years old aspirant Software Engineer with a strong motivation to develop software products useful for everyday life but also an interest in Machine Learning applied to real problems. I offer great spirit of adaptation and leadership combined with hard work characteristics and teamwork mindset. In the last year I have been in touch with the latest research topics in the field of software development, time series clustering and neural network.
 
 
 ## 🌐 Socials:
