@@ -12,4 +12,4 @@ Databases: ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style
 Operating Systems: ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![WINDOWS](https://img.shields.io/badge/windows-blue?style=plastic&logo=windows&logoColor=white)
 
 # 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidePorello)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats-one-smoky-72.vercel.app/api/top-langs/?username=DavidePorello&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
