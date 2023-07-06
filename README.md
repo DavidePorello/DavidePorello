@@ -12,4 +12,4 @@ Databases: ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style
 Operating Systems: ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![WINDOWS](https://img.shields.io/badge/windows-blue?style=plastic&logo=windows&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-one-smoky-72.vercel.app/api/top-langs/?username=DavidePorello&theme=dark&layout=compact&exclude_repo=github-readme-stats&exclude_repo=student-mental-health)
+![](https://github-readme-stats-one-smoky-72.vercel.app/api/top-langs/?username=DavidePorello&theme=dark&layout=compact&exclude_repo=github-readme-stats,student-mental-health)
