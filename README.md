@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a young Software Engineer with a strong motivation to develop Software Applications useful for everyday life but also an interest in Artificial Intelligence applied to real problems. I offer great spirit of adaptation and leadership combined with hard work characteristics and teamwork mindset. In the last years I have been in touch with the latest research topics in the field of software development, time series clustering and neural network.
+I am a young Software Engineer with a strong motivation to develop Software Applications useful for everyday life but also an interest in Artificial Intelligence applied to real problems. I offer great spirit of adaptation and leadership combined with hard work characteristics and teamwork mindset. In the last years I have been in touch with the latest topics in the field of software development and neural networks.
 
   
 
