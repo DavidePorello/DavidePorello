@@ -19,4 +19,4 @@ Operating Systems: ![Android](https://img.shields.io/badge/Android-%2320232a.svg
 Programs: ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic) ![GitLab](https://img.shields.io/badge/GitLab-orange?style=plastic) ![Android Studio](https://img.shields.io/badge/Androio%20Studio-blue?style=plastic)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-one-smoky-72.vercel.app/api/top-langs/?username=DavidePorello&theme=dark&layout=compact&exclude_repo=github-readme-stats,UIC-thesis&size_weight=0.2&count_weight=0.5)
+![](https://github-readme-stats-davideporellos-projects.vercel.app/api/top-langs/?username=DavidePorello&theme=dark&layout=compact&exclude_repo=github-readme-stats,UIC-thesis&size_weight=0.2&count_weight=0.5)
